@@ -1,0 +1,16 @@
+#get-data{
+    background-color: rgb(141, 105, 174);
+    color: rgba(210, 243, 243, 0.636);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#get-data:hover{
+    background-color: rgb(129, 209, 129);
+}
+
+#dane-programisty{
+    font-size: medium;
+    font-family: fantasy;
+    color: blue;
+}
